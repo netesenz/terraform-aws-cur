@@ -5,7 +5,7 @@
 
 ### Improvements
 
-* tigthen IAM for Crawler and Lambda ([c9e7b61](https://www.github.com/nuuday/terraform-aws-cur/commit/c9e7b61273e4f8e68cd3a606e198f4d80f9b5f73))
+* tighten IAM for Crawler and Lambda ([c9e7b61](https://www.github.com/nuuday/terraform-aws-cur/commit/c9e7b61273e4f8e68cd3a606e198f4d80f9b5f73))
 
 
 ### Fixes
