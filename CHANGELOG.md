@@ -1,5 +1,17 @@
 # Changelog
 
+### [0.1.3](https://www.github.com/nuuday/terraform-aws-cur/compare/v0.1.2...v0.1.3) (2021-09-09)
+
+
+### Improvements
+
+* tigthen IAM for Crawler and Lambda ([c9e7b61](https://www.github.com/nuuday/terraform-aws-cur/commit/c9e7b61273e4f8e68cd3a606e198f4d80f9b5f73))
+
+
+### Fixes
+
+* prevent KMS data source from being read during apply ([#27](https://www.github.com/nuuday/terraform-aws-cur/issues/27)) ([b3ffcc0](https://www.github.com/nuuday/terraform-aws-cur/commit/b3ffcc055589c2b2aaf084722c76ff6859782e7c))
+
 ### [0.1.2](https://www.github.com/nuuday/terraform-aws-cur/compare/v0.1.1...v0.1.2) (2021-06-08)
 
 
